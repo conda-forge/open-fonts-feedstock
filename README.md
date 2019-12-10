@@ -3,14 +3,15 @@ About open-fonts
 
 Home: https://github.com/kiwi0fruit/open-fonts
 
-Package license: Aggregate (Apache 2.0, SIL OFL 1.1, Public Domain, DejaVu Fonts)
+Package license: MIT AND Apache-2.0 AND SIL-OFL-1.1 AND Public-Domain AND DejaVu-Fonts
 
 Feedstock license: BSD 3-Clause
 
 Summary: A collection of beautiful free and open source fonts
 
-This package contains several fonts with various free and open source
+This package is an aggregate of several fonts with various free and open source
 licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
+* CSS - MIT
 * Apache License 2.0 - Open Sans, Robotization Mono, Roboto,
 * DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono,
 * Public Domain - Symbola 10.23,
