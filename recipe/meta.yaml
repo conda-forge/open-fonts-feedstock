@@ -22,7 +22,7 @@ about:
   license: MIT AND Apache-2.0 AND OFL-1.1 AND Public-Domain AND DejaVu-Fonts
   license_family: OTHER
   license_file: LICENSE
-  summary: "A collection of beautiful free and open source fonts"
+  summary: "A collection of beautiful free and open source fonts."
   description: |
     This package is an aggregate of several fonts with various free and open source
     licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
