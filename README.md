@@ -5,7 +5,7 @@ Home: https://github.com/kiwi0fruit/open-fonts
 
 Package license: MIT AND Apache-2.0 AND OFL-1.1 AND Public-Domain AND DejaVu-Fonts
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A collection of beautiful free and open source fonts
 
