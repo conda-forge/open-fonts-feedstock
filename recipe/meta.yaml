@@ -1,5 +1,5 @@
 {% set name = "open-fonts" %}
-{% set version = "0.5.1" %}
+{% set version = "0.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,11 +7,11 @@ package:
 
 source:
   url: https://github.com/kiwi0fruit/open-fonts/releases/download/{{ version }}/open-fonts.tar.bz2
-  sha256: aba4625e2f250517bdb917e1bc73c4c8bf3270cd957cfb5b8928e0841aed9624
+  sha256: ac78601c7ca44882822cf1c6af0e7500c6d3c0c9a7fed0a8d860a4a761b743f3
 
 build:
-   number: 0
-   noarch: generic
+  number: 0
+  noarch: generic
 
 test:
   commands:
@@ -22,7 +22,7 @@ about:
   license: MIT AND Apache-2.0 AND OFL-1.1 AND Public-Domain AND DejaVu-Fonts
   license_family: OTHER
   license_file: LICENSE
-  summary: "A collection of beautiful free and open source fonts"
+  summary: A collection of beautiful free and open source fonts
   description: |
     This package is an aggregate of several fonts with various free and open source
     licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
