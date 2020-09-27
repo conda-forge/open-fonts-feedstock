@@ -3,7 +3,7 @@ About open-fonts
 
 Home: https://github.com/kiwi0fruit/open-fonts
 
-Package license: MIT AND Apache-2.0 AND OFL-1.1 AND Public-Domain AND DejaVu-Fonts
+Package license: MIT AND Apache-2.0 AND OFL-1.1 AND LicenseRef-Symbola-Public-Domain AND LicenseRef-DejaVu-Fonts
 
 Feedstock license: BSD-3-Clause
 
@@ -12,13 +12,14 @@ Summary: A collection of beautiful free and open source fonts
 This package is an aggregate of several fonts with various free and open source
 licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
 * MIT License - CSS files,
-* Apache License 2.0 - Open Sans, Robotization Mono, Roboto,
-* DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono,
-* Public Domain - Symbola 10.23,
+* Apache License 2.0 - Cousine, Open Sans, Robotization Mono, Roboto,
+* DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono, DejaVuSerif,
+* Symbola Public Domain - Symbola 10.23,
 * SIL Open Font License 1.1 -
-  IBM Plex Mono, Inconsolata Sugar, Lato, Linus Libertini, Noto Sans,
-  Noto Sans Mono, Noto Serif, Source Serif Pro, Sourcing Code Pro,
-  Sourcing Sans Pro, STIX Two Math, STIX Two Text, ST1X Two Math, Vollkorn.
+  Amiri, DavidLibre, IBM Plex Mono, Halant, Inconsolata Sugar, Lato, Linus Libertini, Noto Sans,
+  Noto Sans Arabic, Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Serif,
+  Noto Serif Devanagari, Source Sans Pro, Source Serif Pro, Sourcing Code Pro, Sourcing Sans Pro,
+  ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
 
 
 Current build status
