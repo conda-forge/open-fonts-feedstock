@@ -16,10 +16,11 @@ licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
 * DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono, DejaVuSerif,
 * Symbola Public Domain - Symbola 10.23,
 * SIL Open Font License 1.1 -
-  Amiri, DavidLibre, IBM Plex Mono, Halant, Inconsolata Sugar, Lato, Linus Libertini, Noto Sans,
-  Noto Sans Arabic, Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Serif,
-  Noto Serif Devanagari, Source Sans Pro, Source Serif Pro, Sourcing Code Pro, Sourcing Sans Pro,
-  ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
+  Amiri, David Libre, IBM Plex Mono, Halant, Inconsolata Sugar, Kawkab Mono, Lato, Linus Libertini,
+  Noto Naskh Arabic, Noto Nastaliq Urdu, Noto Sans, Noto Sans Arabic, Noto Sans Armenian,
+  Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Sans Thai, Noto Serif,
+  Noto Serif Armenian, Noto Serif Devanagari, Noto Serif Thai, Source Sans Pro, Source Serif Pro,
+  Sourcing Code Pro, Sourcing Sans Pro, ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
 
 
 Current build status

@@ -1,5 +1,5 @@
 {% set name = "open-fonts" %}
-{% set version = "0.6.3" %}
+{% set version = "0.6.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/kiwi0fruit/open-fonts/releases/download/{{ version }}/open-fonts.tar.bz2
-  sha256: 19d1cb8e953d3e1072c7d42123a37d9b5b2fae6f3c0b078e310338c89e3634db
+  sha256: 49b2ed1e7ef26f8821c408b2cb0cc98ce628f2bac485182eb078d251b6471926
 
 build:
-  number: 2
+  number: 0
   noarch: generic
 
 test:
@@ -31,10 +31,11 @@ about:
     * DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono, DejaVuSerif,
     * Symbola Public Domain - Symbola 10.23,
     * SIL Open Font License 1.1 -
-      Amiri, DavidLibre, IBM Plex Mono, Halant, Inconsolata Sugar, Lato, Linus Libertini, Noto Sans,
-      Noto Sans Arabic, Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Serif,
-      Noto Serif Devanagari, Source Sans Pro, Source Serif Pro, Sourcing Code Pro, Sourcing Sans Pro,
-      ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
+      Amiri, David Libre, IBM Plex Mono, Halant, Inconsolata Sugar, Kawkab Mono, Lato, Linus Libertini,
+      Noto Naskh Arabic, Noto Nastaliq Urdu, Noto Sans, Noto Sans Arabic, Noto Sans Armenian,
+      Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Sans Thai, Noto Serif,
+      Noto Serif Armenian, Noto Serif Devanagari, Noto Serif Thai, Source Sans Pro, Source Serif Pro,
+      Sourcing Code Pro, Sourcing Sans Pro, ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
   doc_url: https://github.com/kiwi0fruit/open-fonts
   dev_url: https://github.com/kiwi0fruit/open-fonts
 
