@@ -5,7 +5,7 @@ Home: https://github.com/kiwi0fruit/open-fonts
 
 Package license: MIT AND Apache-2.0 AND OFL-1.1 AND CC-BY-4.0 AND LicenseRef-Symbola-Public-Domain AND LicenseRef-DejaVu-Fonts
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/open-fonts-feedstock-1-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/open-fonts-feedstock/blob/master/LICENSE.txt)
 
 Summary: A collection of beautiful free and open source fonts
 
@@ -37,8 +37,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/open-fonts-feedstock-1-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8671&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/open-fonts-feedstock?branchName=master">
       </a>
     </td>
   </tr>
