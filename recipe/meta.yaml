@@ -1,5 +1,5 @@
 {% set name = "open-fonts" %}
-{% set version = "0.6.5" %}
+{% set version = "0.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/kiwi0fruit/open-fonts/releases/download/{{ version }}/open-fonts.tar.bz2
-  sha256: 49b2ed1e7ef26f8821c408b2cb0cc98ce628f2bac485182eb078d251b6471926
+  sha256: 19a1efab8ae1fa7b5fe21fbf3796b4a6eca736540f521ac847c2034f852fbc2f
 
 build:
   number: 0

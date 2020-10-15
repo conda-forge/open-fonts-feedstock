@@ -5,9 +5,13 @@ Home: https://github.com/kiwi0fruit/open-fonts
 
 Package license: MIT AND Apache-2.0 AND OFL-1.1 AND LicenseRef-Symbola-Public-Domain AND LicenseRef-DejaVu-Fonts
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/open-fonts-feedstock/blob/master/LICENSE.txt)
 
 Summary: A collection of beautiful free and open source fonts
+
+Development: https://github.com/kiwi0fruit/open-fonts
+
+Documentation: https://github.com/kiwi0fruit/open-fonts
 
 This package is an aggregate of several fonts with various free and open source
 licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
