@@ -3,7 +3,7 @@ About open-fonts
 
 Home: https://github.com/kiwi0fruit/open-fonts
 
-Package license: MIT AND Apache-2.0 AND OFL-1.1 AND LicenseRef-Symbola-Public-Domain AND LicenseRef-DejaVu-Fonts
+Package license: MIT AND Apache-2.0 AND OFL-1.1 AND CC-BY-4.0 AND LicenseRef-Symbola-Public-Domain AND LicenseRef-DejaVu-Fonts
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/open-fonts-feedstock/blob/master/LICENSE.txt)
 
@@ -16,15 +16,19 @@ Documentation: https://github.com/kiwi0fruit/open-fonts
 This package is an aggregate of several fonts with various free and open source
 licenses. See $PREFIX/fonts/open-fonts/LICENSE directory for details.
 * MIT License - CSS files,
-* Apache License 2.0 - Cousine, Open Sans, Robotization Mono, Roboto,
-* DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono, DejaVuSerif,
+* Apache License 2.0 - Cousine, Open Sans, Roboto, Roboto Mono, Robotization Mono, Twemoji Mozilla,
+* DejaVu Fonts License - DejaVu Sans, DejaVu Sans Mono, DejaVu Serif,
+* CC BY 4.0 - Twemoji Mozilla,
 * Symbola Public Domain - Symbola 10.23,
 * SIL Open Font License 1.1 -
-  Amiri, David Libre, IBM Plex Mono, Halant, Inconsolata Sugar, Kawkab Mono, Lato, Linus Libertini,
-  Noto Naskh Arabic, Noto Nastaliq Urdu, Noto Sans, Noto Sans Arabic, Noto Sans Armenian,
-  Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Sans Thai, Noto Serif,
-  Noto Serif Armenian, Noto Serif Devanagari, Noto Serif Thai, Source Sans Pro, Source Serif Pro,
-  Sourcing Code Pro, Sourcing Sans Pro, ST1X Two Math, ST1X Two Text, STIX Two Math, STIX Two Text, Vollkorn.
+  Amiri, Catamaran, David Libre, IBM Plex Mono, Halant, Inconsolata Sugar, Kawkab Mono, Lato,
+  Libertinus Math, Libertinus Serif, Linus Libertinus, Linus Libertinus Math, Noto Naskh Arabic,
+  Noto Nastaliq Urdu, Noto Sans, Noto Sans Arabic, Noto Sans Armenian, Noto Sans Bengali,
+  Noto Sans Georgian, Noto Sans Devanagari, Noto Sans Hebrew, Noto Sans Mono, Noto Sans Tamil,
+  Noto Sans Thai, Noto Serif, Noto Serif Armenian, Noto Serif Bengali, Noto Serif Georgian,
+  Noto Serif Devanagari, Noto Serif Tamil, Noto Serif Thai, Source Code Pro, Source Sans Pro,
+  Source Serif Pro, Sourcing Code Pro, Sourcing Sans Pro, STIX Two Math, STIX Two Text,
+  Vollkorn, XITS, XITS Math, XITS One Math, XITS One Text, XITS Two Math, XITS Two Text.
 
 
 Current build status
